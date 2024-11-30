@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pixijs/gif.git"
+    "url": "git+https://github.com/pixijs-userland/gif.git"
   },
   "publishConfig": {
     "access": "public"
@@ -55,9 +55,9 @@
   "author": "Matt Karl @bigtimebuddy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pixijs/gif/issues"
+    "url": "https://github.com/pixijs-userland/gif/issues"
   },
-  "homepage": "https://github.com/pixijs/gif#readme",
+  "homepage": "https://github.com/pixijs-userland/gif#readme",
   "pre-commit": [
     "lint",
     "types"
